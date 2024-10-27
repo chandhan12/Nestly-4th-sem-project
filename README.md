@@ -2,31 +2,40 @@
 Home page
 ![home](https://github.com/chandhan12/Nestly-4th-sem-project/blob/master/projectImages/homepage.png)
 
+
 Signup page
+
 ![signIn](https://github.com/chandhan12/Nestly-4th-sem-project/blob/master/projectImages/signup%20page.png)
 
 signin page
+
 ![signup](https://github.com/chandhan12/Nestly-4th-sem-project/blob/master/projectImages/signin%20page.png)
 
 continue with google page
-![continue with google]()
+
+![continue with google](https://github.com/chandhan12/Nestly-4th-sem-project/blob/master/projectImages/with%20google.png)
 
 profile page
+
 ![profile](
 https://github.com/chandhan12/Nestly-4th-sem-project/blob/master/projectImages/profile%20page.png)
 
 Create listing page
+
 ![listing](
 https://github.com/chandhan12/Nestly-4th-sem-project/blob/master/projectImages/create%20listing%20page.png)
 
 Detailed view of listing
+
 ![detailed view](https://github.com/chandhan12/Nestly-4th-sem-project/blob/master/projectImages/detiled%20view%20of%20listing.png)
 
 Search page
+
 ![search page](
 https://github.com/chandhan12/Nestly-4th-sem-project/blob/master/projectImages/searcch%20page.png)
 
 Prediction page
+
 ![prediction page](https://github.com/chandhan12/Nestly-4th-sem-project/blob/master/projectImages/prediction.png)
 
 
