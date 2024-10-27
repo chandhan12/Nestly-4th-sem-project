@@ -118,7 +118,7 @@ Run the Flask application:
 python server.py
 ```
 
- Features 
+### Features 
  ## User Authentication
 Users can sign up, sign in, or continue with Google using OAuth.
 
