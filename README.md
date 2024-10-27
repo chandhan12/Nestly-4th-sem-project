@@ -27,3 +27,7 @@ Welcome to Nestly, a full-featured real estate application where users can sign 
 ```bash
 git clone https://github.com/yourusername/nestly.git
 cd nestly
+### 2. Install Dependencies
+Navigate to the root folder and install the backend dependencies:
+
+npm install
